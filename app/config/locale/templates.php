@@ -6,9 +6,7 @@ return [
         'magicSession',
         'recovery',
         'invitation',
-        'mfaChallenge',
-        'sessionAlert',
-        'otpSession'
+        'mfaChallenge'
     ],
     'sms' => [
         'verification',
